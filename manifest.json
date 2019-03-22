@@ -1,0 +1,31 @@
+{
+  "name": "A Basic PWA",
+  "short_name": "Basic PWA",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ccc",
+  "theme_color": "#61b3e3fe",
+  "icons": [
+    {
+      "src": "src/images/icon/app-icon-96x96.png",
+      "sizes": "96x96",
+      "type": "images/png"
+    },
+    {
+      "src": "src/images/icon/app-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "images/png"
+    },
+    {
+      "src": "src/images/icon/app-icon-256x256.png",
+      "sizes": "256x256",
+      "type": "images/png"
+    },
+    {
+      "src": "src/images/icon/app-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "images/png"
+    }
+  ]
+}
